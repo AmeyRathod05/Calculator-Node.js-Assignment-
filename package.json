@@ -1,0 +1,14 @@
+{
+  "name": "calculator-nodejs",
+  "version": "1.0.0",
+  "description": "calculator nodejs",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "author": "amey rathod",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
